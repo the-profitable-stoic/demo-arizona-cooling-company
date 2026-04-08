@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Arizona Cooling Company",
+    "phone": "+16023392806",
+    "category": "HVAC company",
+    "city": "Mesa",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Mesa's Trusted HVAC Experts",
+      "heroSubline": "Arizona Cooling Company delivers reliable comfort to your home or business. Beat the heat with our expert HVAC services.",
+      "aboutTitle": "Keeping Mesa Cool for Over a Decade",
+      "aboutText": [
+        "Arizona Cooling Company was founded right here in Mesa with a simple goal: to provide honest, dependable HVAC services to our neighbors. We understand the unique challenges of Arizona's climate and tailor our solutions to keep you comfortable year-round. From scorching summers to the occasional chilly winter night, we've got you covered.",
+        "We believe in doing the job right the first time. Our team of experienced technicians is committed to providing quality workmanship and exceptional customer service. We use only the highest quality parts and equipment, and we stand behind our work with a satisfaction guarantee. We're not just fixing your AC; we're building lasting relationships.",
+        "Arizona Cooling Company is proud to be a part of the Mesa community. We actively support local schools and organizations, and we're committed to giving back to the people who have supported us. When you choose us, you're choosing a company that cares about your comfort and the well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait for business hours. We're available around the clock to get your system back up and running."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our certified technicians have years of experience and are trained to handle all types of HVAC systems."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, upfront pricing before any work begins."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work with a satisfaction guarantee. If you're not happy, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Stay Cool and Comfortable",
+      "ctaSubline": "Contact Arizona Cooling Company today for reliable HVAC services in Mesa and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast, reliable AC repair services to beat the Arizona heat.",
+        "description": "Is your AC unit struggling to keep up with the Mesa heat? Don't suffer through another sweltering day. Arizona Cooling Company provides expert AC repair services to get your system back up and running quickly. We understand the urgency of AC problems in Arizona, especially during the monsoon season when humidity skyrockets. Our technicians are trained to diagnose and repair all makes and models of air conditioners, from older units in Superstition Springs to newer, high-efficiency systems in Eastmark. \n\nWe tackle common issues like refrigerant leaks, compressor failures, and faulty fan motors. We also address less obvious problems like ductwork leaks that can reduce efficiency and increase your energy bills. Our thorough diagnostic process ensures we identify the root cause of the problem and provide a lasting solution. We use only high-quality replacement parts and offer a warranty on all repairs.\n\nArizona Cooling Company is committed to providing transparent and honest service. We'll explain the problem clearly, provide a detailed estimate, and answer any questions you have before starting the repair. We also offer 24/7 emergency AC repair services, so you can count on us to be there when you need us most. Don't let a broken AC ruin your day – call Arizona Cooling Company for fast and reliable repair services.",
+        "process": [
+          "Step 1: Schedule a service call online or by phone.",
+          "Step 2: Our technician will diagnose the problem with your AC unit.",
+          "Step 3: We'll provide a detailed estimate for the repair.",
+          "Step 4: We'll complete the repair quickly and efficiently."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced technicians",
+          "Upfront pricing",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you repair my AC unit?",
+            "answer": "We offer same-day service in most cases. Our technicians arrive prepared with the tools and parts needed to diagnose and repair your AC unit quickly."
+          },
+          {
+            "question": "Do you offer a warranty on AC repairs?",
+            "answer": "Yes, we offer a warranty on all AC repairs. The length of the warranty varies depending on the specific repair and parts used."
+          },
+          {
+            "question": "What are the common signs that my AC unit needs repair?",
+            "answer": "Common signs include weak airflow, unusual noises, foul odors, and inconsistent cooling. If you notice any of these issues, it's best to call a professional for an inspection."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Expert AC installation for optimal cooling and energy efficiency.",
+        "description": "Installing a new AC unit in Mesa requires careful consideration of factors like home size, insulation, and sun exposure. Arizona Cooling Company provides expert AC installation services to ensure your new system is perfectly matched to your needs. We'll help you choose the right size and type of AC unit for your home, taking into account energy efficiency and budget. We handle everything from removing your old unit to installing the new one, ensuring proper refrigerant levels, and testing the system for optimal performance.\n\nWe understand the importance of energy efficiency in Arizona's climate. A properly installed AC unit can save you money on your energy bills and reduce your carbon footprint. We offer a variety of high-efficiency AC units that qualify for rebates and incentives. Our technicians are trained to install these systems correctly, maximizing their efficiency and lifespan.\n\nWhether you're building a new home in Eastmark or replacing an old unit in Superstition Springs, Arizona Cooling Company is the right choice for AC installation. We're committed to providing quality workmanship and exceptional customer service. We'll ensure your new AC unit is installed correctly and performs flawlessly for years to come. We also offer financing options to make AC installation more affordable.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your needs.",
+          "Step 2: We'll help you choose the right AC unit for your home.",
+          "Step 3: Our technicians will install your new AC unit.",
+          "Step 4: We'll test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Proper sizing and installation",
+          "Energy-efficient options",
+          "Professional workmanship",
+          "Financing available"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "We'll perform a load calculation to determine the appropriate size AC unit for your home. This takes into account factors like square footage, insulation, and sun exposure."
+          },
+          {
+            "question": "Do you offer financing for AC installation?",
+            "answer": "Yes, we offer financing options to make AC installation more affordable. Contact us for more information."
+          },
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation process typically takes one day, depending on the complexity of the job."
+          }
+        ]
+      },
+      {
+        "slug": "ac-maintenance",
+        "name": "AC Maintenance",
+        "shortDescription": "Extend the life of your AC with regular maintenance.",
+        "description": "Regular AC maintenance is essential for keeping your system running efficiently and preventing costly repairs. Arizona Cooling Company offers comprehensive AC maintenance services to keep your unit in top condition. Our maintenance service includes cleaning the coils, checking refrigerant levels, lubricating moving parts, and inspecting electrical components. We also identify and address any potential problems before they become major issues.\n\nIn Mesa's harsh climate, AC units work overtime to keep homes cool. Dust storms, extreme heat, and intense UV radiation can take a toll on your system. Regular maintenance helps to mitigate these effects and extend the life of your AC unit. It also improves energy efficiency, saving you money on your utility bills.\n\nOur technicians are trained to perform thorough maintenance on all makes and models of AC units. We use specialized equipment and techniques to ensure your system is running at peak performance. We also provide a detailed report of our findings and recommendations for any necessary repairs. Protect your investment and keep your AC unit running smoothly with regular maintenance from Arizona Cooling Company.",
+        "process": [
+          "Step 1: Schedule a maintenance appointment.",
+          "Step 2: Our technician will perform a comprehensive inspection.",
+          "Step 3: We'll clean and lubricate the system.",
+          "Step 4: We'll provide a detailed report and recommendations."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Reduced repair costs",
+          "Extended lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule AC maintenance?",
+            "answer": "We recommend scheduling AC maintenance at least once a year, preferably in the spring before the start of the cooling season."
+          },
+          {
+            "question": "What is included in your AC maintenance service?",
+            "answer": "Our AC maintenance service includes cleaning the coils, checking refrigerant levels, lubricating moving parts, and inspecting electrical components."
+          },
+          {
+            "question": "Can AC maintenance prevent breakdowns?",
+            "answer": "Yes, regular AC maintenance can help prevent breakdowns by identifying and addressing potential problems before they become major issues."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, and other contaminants can accumulate in your air ducts, affecting your indoor air quality and potentially triggering allergies or respiratory problems. Arizona Cooling Company offers professional duct cleaning services to remove these contaminants and improve the air you breathe. We use specialized equipment to thoroughly clean your ductwork, removing dust, debris, and allergens. Our duct cleaning service can improve the efficiency of your HVAC system and reduce energy costs.\n\nIn Mesa, dust storms are a common occurrence, and these storms can deposit significant amounts of dust into your ductwork. Regular duct cleaning is especially important for homeowners with allergies or respiratory sensitivities. Our duct cleaning service removes these irritants, creating a healthier indoor environment.\n\nWe follow industry best practices and use safe, effective cleaning methods. We'll protect your home and belongings during the cleaning process and ensure that your ductwork is thoroughly cleaned without causing any damage. Breathe easier and improve your indoor air quality with duct cleaning from Arizona Cooling Company.",
+        "process": [
+          "Step 1: Schedule a duct cleaning appointment.",
+          "Step 2: We'll inspect your ductwork.",
+          "Step 3: We'll use specialized equipment to clean your ducts.",
+          "Step 4: We'll sanitize and deodorize the system."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergies",
+          "Increased energy efficiency",
+          "Healthier living environment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more frequently if you have allergies or pets."
+          },
+          {
+            "question": "What is involved in duct cleaning?",
+            "answer": "Duct cleaning involves using specialized equipment to remove dust, debris, and allergens from your ductwork."
+          },
+          {
+            "question": "Is duct cleaning safe?",
+            "answer": "Yes, our duct cleaning methods are safe and effective. We take precautions to protect your home and belongings during the cleaning process."
+          }
+        ]
+      },
+      {
+        "slug": "evaporative-cooler-services",
+        "name": "Evaporative Cooler Services",
+        "shortDescription": "Expert service for swamp coolers – repair, maintenance, and installation.",
+        "description": "Evaporative coolers, also known as swamp coolers, are a popular and energy-efficient cooling option in Arizona's dry climate. Arizona Cooling Company provides comprehensive evaporative cooler services, including repair, maintenance, and installation. We understand the unique requirements of swamp coolers and are trained to keep them running efficiently.\n\nOur evaporative cooler repair services address common issues like pump failures, motor problems, and clogged pads. We use high-quality replacement parts and offer a warranty on all repairs. Regular maintenance is essential for keeping your swamp cooler running smoothly. Our maintenance service includes cleaning the cooler, replacing the pads, and lubricating moving parts.\n\nIf you're considering installing a new evaporative cooler, we can help you choose the right size and type for your home. We'll handle the installation process from start to finish, ensuring proper water supply and drainage. Keep your home cool and comfortable with expert evaporative cooler services from Arizona Cooling Company.",
+        "process": [
+          "Step 1: Schedule a service call.",
+          "Step 2: Our technician will diagnose the problem.",
+          "Step 3: We'll provide a detailed estimate.",
+          "Step 4: We'll complete the repair or maintenance."
+        ],
+        "benefits": [
+          "Energy-efficient cooling",
+          "Lower utility bills",
+          "Environmentally friendly",
+          "Expert service"
+        ],
+        "faq": [
+          {
+            "question": "How does an evaporative cooler work?",
+            "answer": "Evaporative coolers work by evaporating water, which cools the air. They are most effective in dry climates like Arizona."
+          },
+          {
+            "question": "How often should I replace the pads in my swamp cooler?",
+            "answer": "We recommend replacing the pads in your swamp cooler at least once a year, or more frequently if they are heavily soiled."
+          },
+          {
+            "question": "Are evaporative coolers suitable for all homes?",
+            "answer": "Evaporative coolers are most effective in dry climates. They may not be suitable for homes in humid areas."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Year-round comfort with expert heat pump services.",
+        "description": "Heat pumps provide both heating and cooling, making them a versatile and energy-efficient option for Arizona homes. Arizona Cooling Company offers comprehensive heat pump services, including repair, maintenance, and installation. We're trained to handle all makes and models of heat pumps, ensuring your system operates efficiently year-round.\n\nOur heat pump repair services address common issues like refrigerant leaks, compressor failures, and defrost problems. We use high-quality replacement parts and offer a warranty on all repairs. Regular maintenance is essential for keeping your heat pump running smoothly. Our maintenance service includes cleaning the coils, checking refrigerant levels, and inspecting electrical components.\n\nIf you're considering installing a new heat pump, we can help you choose the right size and type for your home. We'll handle the installation process from start to finish, ensuring proper refrigerant levels and optimal performance. Experience year-round comfort with expert heat pump services from Arizona Cooling Company.",
+        "process": [
+          "Step 1: Schedule a service call.",
+          "Step 2: Our technician will diagnose the problem.",
+          "Step 3: We'll provide a detailed estimate.",
+          "Step 4: We'll complete the repair or maintenance."
+        ],
+        "benefits": [
+          "Year-round comfort",
+          "Energy efficiency",
+          "Versatile heating and cooling",
+          "Expert service"
+        ],
+        "faq": [
+          {
+            "question": "How does a heat pump work?",
+            "answer": "Heat pumps transfer heat between the inside and outside of your home. In the summer, they remove heat from your home, and in the winter, they bring heat in."
+          },
+          {
+            "question": "Are heat pumps energy efficient?",
+            "answer": "Yes, heat pumps are very energy efficient. They use electricity to move heat, rather than generate it."
+          },
+          {
+            "question": "Are heat pumps suitable for all climates?",
+            "answer": "Heat pumps are most effective in moderate climates. In extremely cold climates, they may require a supplemental heating source."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is proud to serve the residents of Phoenix, Arizona. From the historic neighborhoods with their classic 1960s and 70s block construction homes to the newer developments, we understand the unique cooling needs of Phoenix homeowners. Our experienced technicians are equipped to handle any HVAC issue, ensuring your home stays comfortable, even during the extreme summer heat where temperatures regularly exceed 110°F. We offer a full range of services, including AC repair, maintenance, and installation, all tailored to the specific demands of Phoenix residences.\n\nWe know that a functioning air conditioning system is not just a comfort, but a necessity in Phoenix. That's why Arizona Cooling Company is committed to providing prompt, reliable, and affordable HVAC services. Whether you need a quick repair to get your AC back up and running or are considering a complete system upgrade, our team is here to help you make the best decision for your home and budget. We also offer preventative maintenance plans to keep your system running efficiently and prevent costly breakdowns.",
+        "localContext": "Phoenix features a mix of older block construction homes built in the 1960s and 70s and newer developments, all requiring robust cooling solutions to combat the extreme summer heat.",
+        "nearbyAreas": [
+          "Tempe",
+          "Glendale",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company provides expert HVAC services to the residents of Scottsdale, Arizona. Known for its luxury Southwestern estates and upscale communities, Scottsdale demands the highest quality cooling solutions. We understand the unique needs of Scottsdale homeowners and offer a comprehensive range of services to ensure your home remains a comfortable oasis, even during the hottest summer months. Our skilled technicians are experienced in working with a variety of high-end HVAC systems, providing efficient and reliable solutions for your specific needs.\n\nWe are committed to providing Scottsdale residents with exceptional service and top-quality workmanship. From routine maintenance to complex repairs and new installations, Arizona Cooling Company is your trusted partner for all your HVAC needs. We also offer energy-efficient upgrades to help you save money on your utility bills while reducing your environmental impact. With our prompt response times and dedication to customer satisfaction, you can count on us to keep your home cool and comfortable year-round.",
+        "localContext": "Scottsdale is characterized by its luxury Southwestern estates, demanding high-performance and aesthetically pleasing HVAC solutions.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is dedicated to providing top-notch HVAC services to the residents of Chandler, Arizona. With its many 1990s and 2000s planned developments, Chandler homes require reliable and efficient cooling systems to combat the intense summer heat. We understand the specific needs of Chandler homeowners and offer a wide range of services, including AC repair, maintenance, and installation. Our experienced technicians are equipped to handle any HVAC issue, ensuring your home remains a comfortable haven throughout the year.\n\nWe know that a properly functioning AC system is essential for Chandler residents, especially during the extreme summer months. That's why Arizona Cooling Company is committed to providing prompt, professional, and affordable HVAC services. Whether you need a simple repair or a complete system replacement, our team is here to help you make the best decision for your home and budget. We also offer preventative maintenance plans to keep your system running at peak performance and prevent costly breakdowns.",
+        "localContext": "Chandler features many planned developments built in the 1990s and 2000s, requiring efficient and reliable HVAC systems to cope with the desert climate.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Mesa",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is proud to serve the rapidly growing community of Gilbert, Arizona. With its newer construction homes built throughout the 2000s and 2020s, Gilbert residents demand modern and efficient HVAC solutions. We understand the unique needs of Gilbert homeowners and offer a comprehensive range of services, including AC repair, maintenance, and installation. Our experienced technicians are trained to work with the latest HVAC technologies, ensuring your home stays cool and comfortable year-round.\n\nWe are committed to providing Gilbert residents with exceptional service and top-quality workmanship. From routine maintenance to complex repairs and new installations, Arizona Cooling Company is your trusted partner for all your HVAC needs. We also offer energy-efficient upgrades to help you save money on your utility bills while reducing your environmental impact. With our prompt response times and dedication to customer satisfaction, you can count on us to keep your home comfortable, no matter the weather.",
+        "localContext": "Gilbert is known for its newer construction homes built from the 2000s to 2020s, requiring modern and energy-efficient HVAC systems.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is pleased to provide HVAC services to the vibrant community of Tempe, Arizona. Home to Arizona State University, Tempe features a mix of older and newer homes, many occupied by students and faculty. We understand the diverse needs of Tempe residents and offer a wide range of services, including AC repair, maintenance, and installation. Our experienced technicians are equipped to handle any HVAC issue, ensuring your home remains a comfortable and productive environment.\n\nWe know that a reliable AC system is essential for Tempe residents, especially during the hot summer months. That's why Arizona Cooling Company is committed to providing prompt, professional, and affordable HVAC services. Whether you need a quick repair or a complete system upgrade, our team is here to help you make the best decision for your home and budget. We also offer preventative maintenance plans to keep your system running efficiently and prevent costly breakdowns.",
+        "localContext": "Tempe's housing market is influenced by its university presence, featuring a mix of older homes and student housing that require affordable and reliable HVAC solutions.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is proud to call Mesa, Arizona home, and we are dedicated to serving our neighbors with exceptional HVAC services. Mesa features a diverse range of homes, from historic neighborhoods to newer developments, each with its unique cooling needs. We understand the specific challenges faced by Mesa homeowners and offer a comprehensive range of services, including AC repair, maintenance, and installation. Our experienced technicians are equipped to handle any HVAC issue, ensuring your home stays comfortable year-round.\n\nAs a local company, we are committed to providing Mesa residents with prompt, reliable, and affordable HVAC solutions. Whether you need a quick repair to get your AC back up and running or are considering a complete system upgrade, our team is here to help you make the best decision for your home and budget. We also offer preventative maintenance plans to keep your system running efficiently and prevent costly breakdowns. Trust Arizona Cooling Company for all your HVAC needs in Mesa.",
+        "localContext": "Mesa boasts a diverse housing stock, requiring a wide range of HVAC services from repairs to replacements.",
+        "nearbyAreas": [
+          "Tempe",
+          "Gilbert",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company proudly extends its HVAC services to the discerning residents of Paradise Valley, Arizona. Known for its luxurious homes and stunning desert landscapes, Paradise Valley demands the highest standards of comfort and efficiency. We understand the unique needs of Paradise Valley homeowners and offer a comprehensive range of services tailored to their specific requirements. Our experienced technicians are skilled in working with a variety of high-end HVAC systems, ensuring optimal performance and energy efficiency.\n\nWe are committed to providing Paradise Valley residents with exceptional service and unparalleled expertise. From routine maintenance to complex repairs and new installations, Arizona Cooling Company is your trusted partner for all your HVAC needs. We also offer customized solutions to enhance your home's comfort and energy efficiency. With our prompt response times and unwavering commitment to customer satisfaction, you can count on us to keep your Paradise Valley home cool and comfortable year-round.",
+        "localContext": "Paradise Valley is characterized by its luxury residences, requiring high-performance and discreet HVAC solutions.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Arizona Cooling Company is dedicated to serving the growing community of Queen Creek, Arizona, with reliable and affordable HVAC services. Queen Creek is known for its family-friendly atmosphere and newer residential developments. We understand the cooling needs of Queen Creek residents and offer a wide range of services, including AC repair, maintenance, and installation. Our experienced technicians are equipped to handle any HVAC issue, ensuring your home remains a comfortable haven throughout the year.\n\nWe know that a properly functioning AC system is essential for Queen Creek residents, especially during the hot summer months. That's why Arizona Cooling Company is committed to providing prompt, professional service. Whether you need a simple repair or a complete system replacement, our team is here to help you make the best decision for your home and budget. We also offer preventative maintenance plans to keep your system running at peak performance and prevent costly breakdowns.",
+        "localContext": "Queen Creek is a rapidly developing area with many new homes, requiring efficient and modern HVAC systems.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "San Tan Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during a heat wave, and Arizona Cooling Company came to the rescue! The technician, David, was professional, knowledgeable, and quickly diagnosed the problem. He explained everything clearly and had our AC up and running in no time. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "AC Maintenance",
+        "text": "I had Arizona Cooling Company perform routine maintenance on my AC unit. The technician was thorough and identified a potential issue with the fan motor before it became a major problem. They fixed it quickly and efficiently. I appreciate their attention to detail.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica S.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I recently had my ducts cleaned by Arizona Cooling Company, and I'm amazed at the difference it has made! The air in my home feels cleaner and fresher, and my allergies have improved. The team was professional and courteous throughout the entire process.",
+        "date": "2025-08-01"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Arizona Cooling Company installed a new AC unit in my home, and I'm extremely satisfied with their service. They helped me choose the right size and type of unit for my needs and installed it quickly and efficiently. The team was professional and respectful of my property.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Karen L.",
+        "rating": 4,
+        "service": "Evaporative Cooler Repair",
+        "text": "My swamp cooler stopped working, and Arizona Cooling Company was able to repair it quickly and affordably. The technician was knowledgeable and explained the problem clearly. I appreciate their prompt and reliable service.",
+        "date": "2025-07-28"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Heat Pump Maintenance",
+        "text": "We use ACC for our bi-annual heat pump checkup. They are always on time, professional and helpful. We've been very happy with their service for years.",
+        "date": "2025-09-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arizona Cooling Company | Mesa HVAC Services",
+        "description": "Mesa's trusted HVAC experts. AC repair, installation, maintenance & duct cleaning. Beat the Arizona heat with reliable cooling solutions."
+      },
+      "about": {
+        "title": "About Arizona Cooling Company | Mesa HVAC",
+        "description": "Learn about Arizona Cooling Company's commitment to quality HVAC services in Mesa, AZ. Reliable AC repair, installation, and maintenance."
+      },
+      "services": {
+        "title": "HVAC Services | Arizona Cooling Company",
+        "description": "Comprehensive HVAC services in Mesa, AZ. AC repair, installation, maintenance, duct cleaning, and more. Expert solutions for your cooling needs."
+      },
+      "contact": {
+        "title": "Contact Arizona Cooling Company | Mesa HVAC",
+        "description": "Contact Arizona Cooling Company for reliable HVAC services in Mesa, AZ. Get a free quote for AC repair, installation, and maintenance."
+      },
+      "reviews": {
+        "title": "Arizona Cooling Company Reviews | Mesa HVAC",
+        "description": "Read reviews of Arizona Cooling Company's HVAC services in Mesa, AZ. See what our satisfied customers have to say about our AC repair and installation."
+      },
+      "service-areas": {
+        "title": "Arizona Cooling Company Service Areas",
+        "description": "Arizona Cooling Company provides HVAC services to Mesa, Phoenix, Scottsdale, Chandler, Gilbert, and Tempe. Get reliable AC repair and installation near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "ac-maintenance": "/images/service-ac-maintenance.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "evaporative-cooler-services": "/images/service-evaporative-cooler-services.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-maintenance": {
+        "src": "/images/service-ac-maintenance.webp",
+        "srcset": "/images/service-ac-maintenance-400w.webp 400w, /images/service-ac-maintenance-800w.webp 800w, /images/service-ac-maintenance-1200w.webp 1200w, /images/service-ac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "evaporative-cooler-services": {
+        "src": "/images/service-evaporative-cooler-services.webp",
+        "srcset": "/images/service-evaporative-cooler-services-400w.webp 400w, /images/service-evaporative-cooler-services-800w.webp 800w, /images/service-evaporative-cooler-services-1200w.webp 1200w, /images/service-evaporative-cooler-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
